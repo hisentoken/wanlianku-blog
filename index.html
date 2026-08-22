@@ -1,0 +1,29 @@
+---
+layout: default
+title: 首页
+description: 万联库APP内容博客，分享推广项目、合作渠道、资源对接与执行经验。
+---
+<section class="hero">
+  <p class="eyebrow">万联库APP · 内容博客</p>
+  <h1>把项目讲清楚，把合作做具体。</h1>
+  <p class="hero-copy">围绕推广项目、渠道合作、资源对接和执行方法，持续整理有实际参考价值的内容。</p>
+</section>
+
+<section class="section-head">
+  <div>
+    <p class="eyebrow">LATEST</p>
+    <h2>最新文章</h2>
+  </div>
+  <span class="muted">持续更新</span>
+</section>
+
+<section class="post-grid">
+  {% for post in site.posts %}
+  <article class="post-card">
+    <p class="post-meta">{{ post.date | date: "%Y年%m月%d日" }} · {{ post.categories | join: " / " }}</p>
+    <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+    <p>{{ post.description }}</p>
+    <a class="read-more" href="{{ post.url | relative_url }}">阅读全文 →</a>
+  </article>
+  {% endfor %}
+</section>
