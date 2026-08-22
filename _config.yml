@@ -1,0 +1,17 @@
+title: 万联库内容博客
+description: 围绕推广项目、合作渠道、资源对接与执行经验的长期内容博客。
+lang: zh-CN
+timezone: Asia/Shanghai
+baseurl: "/wanlianku-blog"
+url: ""
+permalink: /:categories/:title/
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
