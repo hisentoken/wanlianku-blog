@@ -15,7 +15,7 @@ tags: [网盘拉新, 推广渠道, 拉新推广, 渠道合作, 万联库APP]
 
 这两类需求如果只靠零散群聊和熟人介绍，很容易错过。项目方有推广需求，却找不到合适渠道；推广方手里有资源，也不知道哪些项目正在招募合作伙伴。
 
-![网盘拉新推广项目与推广渠道对接]({{ '/assets/images/wangpan-laxin-tuiguang-pingtai.jpg' | relative_url }})
+![网盘拉新推广项目与推广渠道对接](https://raw.githubusercontent.com/hisentoken/wanlianku-blog/main/assets/images/wangpan-laxin-tuiguang-pingtai.jpg)
 
 ## 网盘拉新项目需要哪些渠道
 
