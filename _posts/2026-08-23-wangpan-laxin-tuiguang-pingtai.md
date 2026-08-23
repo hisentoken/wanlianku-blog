@@ -3,6 +3,7 @@ layout: default
 title: "网盘拉新推广平台：项目方如何找到合适的推广渠道"
 description: "网盘拉新项目如何寻找内容账号、社群、校园和区域推广渠道？万联库APP为项目方与推广方提供合作信息对接入口。"
 date: 2026-08-23 00:00:00 +0800
+permalink: /articles/wangpan-laxin-tuiguang-pingtai/
 categories: [推广项目]
 tags: [网盘拉新, 推广渠道, 拉新推广, 渠道合作, 万联库APP]
 ---
