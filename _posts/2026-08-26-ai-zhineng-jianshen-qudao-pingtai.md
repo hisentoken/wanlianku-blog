@@ -12,7 +12,7 @@ tags: [AI智能健身, 健身项目渠道, 项目合作, 渠道对接, 万联库
 
 AI健身项目的渠道并不是一个固定名单。设备需要场地和用户体验，课程需要教练与学员，内容产品需要账号触达，区域项目又需要本地团队执行。先按项目的落地场景来找渠道，沟通会比只看“热门平台”更有效。
 
-![AI智能健身项目渠道对接场景]({{ '/assets/images/ai-zhineng-jianshen-fengkou-xiangmu-qudao-pingtai.jpg' | relative_url }})
+![AI智能健身项目渠道对接场景](../assets/images/ai-zhineng-jianshen-fengkou-xiangmu-qudao-pingtai.jpg')
 
 ## 设备类项目：先看场馆和使用场景
 
