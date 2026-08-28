@@ -6,7 +6,7 @@ tags: [小游戏合伙人渠道对接, 小游戏推广, 游戏渠道合作, 合�
 description: "从内容账号、玩家社群、推广团队和运营服务等方向，梳理小游戏项目寻找合伙人和渠道资源的对接方式。"
 ---
 
-![小游戏合伙人渠道对接]({{ site.baseurl }}/assets/images/xiaoyouxi-hehuoren-qudaodui jie-20260825.jpg)
+![小游戏合伙人渠道对接](../assets/images/xiaoyouxi-hehuoren-qudaodui)
 
 小游戏项目进入推广阶段后，项目方常常需要寻找内容账号、玩家社群、推广团队和运营服务方。渠道方也有类似需求：手里有账号、社群或执行团队，却不容易找到适合自身资源的小游戏项目。
 
