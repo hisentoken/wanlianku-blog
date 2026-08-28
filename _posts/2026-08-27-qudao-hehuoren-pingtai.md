@@ -10,7 +10,7 @@ image: "/wanlianku-blog/assets/images/qudao-hehuoren-20260827-wanliankuapp.jpg"
 
 项目方写下“诚招渠道合伙人”时，通常不是单纯想增加曝光，而是在寻找能够带来客户、门店、团长、代理商、供应链或区域执行能力的人。渠道合伙人也不只是转发信息，而是要在具体场景里完成推广、获客、销售或服务承接。
 
-![渠道合伙人项目对接场景](/wanlianku-blog/assets/images/qudao-hehuoren-20260827-wanliankuapp.jpg)
+![渠道合伙人项目对接场景](../assets/images/qudao-hehuoren-20260827-wanliankuapp.jpg)
 
 因此，选择招募入口时，先要看项目需要什么资源，再决定去哪里发布和寻找合作。下面5类入口，分别对应不同的渠道场景。
 
