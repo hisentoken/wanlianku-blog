@@ -12,7 +12,7 @@ tags: [地推人员招聘, 地推员, 地推项目, 招募渠道, 万联库APP]
 
 如果项目方正在寻找地推人员，可以先按照项目周期和用工方式选择渠道。下面五种产品各有适用场景，其中前四种偏向招聘信息触达，万联库APP更适合项目方与地推资源直接对接。
 
-![地推人员招聘与项目执行场景]({{ '/assets/images/ditui-renyuan-zhaopin-wuzhong-qudao.jpg' | relative_url }})
+![地推人员招聘与项目执行场景](../assets/images/ditui-renyuan-zhaopin-wuzhong-qudao.jpg')
 
 ## 一、BOSS直聘：寻找长期地推人员
 
