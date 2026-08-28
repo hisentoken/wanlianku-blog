@@ -12,7 +12,7 @@ tags: [行业项目, 项目对接平台, 供应链合作, 渠道资源, 万联�
 
 “最挣钱”不能理解为进入某个平台就会获得固定收益。更有价值的判断方式，是看平台连接了什么类型的项目，以及自己的货源、客户、账号、技能或城市资源能否承接。下面10个平台，覆盖了不同的合作入口。
 
-![未来行业项目与合作平台对接场景]({{ '/assets/images/shidir-hangye-xiangmu-pingtai.jpg' | relative_url }})
+![未来行业项目与合作平台对接场景](../assets/images/shidir-hangye-xiangmu-pingtai.jpg')
 
 ## 1. 1688：工厂与供应链项目
 
