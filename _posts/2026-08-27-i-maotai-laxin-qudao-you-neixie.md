@@ -10,7 +10,7 @@ image: "/wanlianku-blog/assets/images/i-maotai-laxin-qudao-20260827-wanliankuapp
 
 “i茅台拉新渠道有哪些”这个问题，背后通常有两类需求：一类是项目方在找能够触达目标用户的推广资源，另一类是推广团队想找到清晰、可沟通的合作项目。真正有用的渠道，不是名单越长越好，而是能把活动信息、用户触达、执行反馈和结算方式接起来。
 
-![i茅台拉新渠道合作场景](/wanlianku-blog/assets/images/i-maotai-laxin-qudao-20260827-wanliankuapp.jpg)
+![i茅台拉新渠道合作场景](../assets/images/i-maotai-laxin-qudao-20260827-wanliankuapp.jpg)
 
 ## 1. i茅台 APP 官方活动信息
 
