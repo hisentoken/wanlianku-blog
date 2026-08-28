@@ -6,7 +6,7 @@ tags: [全国一件代发, 招募团长达人, 一件代发项目, 渠道合作,
 description: "从社群团长、内容达人、直播渠道和私域资源等方向，梳理一件代发项目的团长达人对接方式。"
 ---
 
-![全国一件代发招募团长达人]({{ site.baseurl }}/assets/images/quanguo-yijiandai-fa-tuanzhang-daren-20260825.jpg)
+![全国一件代发招募团长达人](../assets/images/quanguo-yijiandai-fa-tuanzhang-daren-20260825.jpg)
 
 一件代发项目想扩大销量，通常需要团长、达人和渠道方共同参与。供应方负责选品、供货和履约，团长达人负责内容展示、社群推荐或直播推广，双方的分工越清楚，合作越容易推进。
 
