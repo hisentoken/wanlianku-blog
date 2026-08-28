@@ -6,7 +6,7 @@ tags: [互联网广告代理加盟项目, 广告代理合作, 广告投放, 客�
 description: "互联网广告代理项目如何匹配客户资源、投放能力和本地服务团队，找到适合自己的合作方向。"
 ---
 
-![互联网广告代理加盟项目合作对接]({{ site.baseurl }}/assets/images/hulianwang-guanggao-daili-jia-meng-20260824.jpg)
+![互联网广告代理加盟项目合作对接](../assets/images/hulianwang-guanggao-daili-jia-meng-20260824.jpg)
 
 很多人搜索“互联网广告代理加盟项目”，真正想找的并不只是一个品牌名称，而是一项能够与现有客户和服务能力衔接的广告业务。
 
