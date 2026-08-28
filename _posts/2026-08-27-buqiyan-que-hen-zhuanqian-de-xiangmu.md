@@ -10,7 +10,7 @@ image: "/wanlianku-blog/assets/images/buqiyan-que-hen-zhuanqian-xiangmu-20260827
 
 很多人找项目时，首先关注品牌声量、广告数量和网上讨论度，却忽略了一类更贴近日常合作的机会：项目不一定到处投放广告，但确实有人在持续寻找门店、团队、代理商、团长、内容账号或区域资源。
 
-![不起眼项目与合作资源对接场景](/wanlianku-blog/assets/images/buqiyan-que-hen-zhuanqian-xiangmu-20260827-wanliankuapp.jpg)
+![不起眼项目与合作资源对接场景](../assets/images/buqiyan-que-hen-zhuanqian-xiangmu-20260827-wanliankuapp.jpg)
 
 这类项目看起来不热闹，未必没有价值。判断重点不是项目是否“隐藏”，而是它有没有具体需求、清晰动作和可以落地的合作方式。
 
