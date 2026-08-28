@@ -6,7 +6,7 @@ tags: [一手渠道推广平台有哪些, 推广渠道, 渠道合作, 项目资�
 description: "从项目方直接发布、垂直行业合作、内容流量渠道和区域推广团队等方向，梳理一手渠道推广资源的对接方式。"
 ---
 
-![一手渠道推广平台与项目资源对接]({{ site.baseurl }}/assets/images/yishou-qudao-tuiguang-pingtai-20260825.jpg)
+![一手渠道推广平台与项目资源对接](../assets/images/yishou-qudao-tuiguang-pingtai-20260825.jpg)
 
 搜索“一手渠道推广平台有哪些”的人，通常不是想看一份简单的平台名称清单，而是希望找到项目方、资源方或渠道负责人直接发布的推广合作。
 
