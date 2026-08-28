@@ -12,7 +12,7 @@ excerpt: "轻创业项目不只看投入门槛，更要看参与方式是否与�
 
 有人有空闲时间，希望参与线上推广或本地项目；有人熟悉校园、社区和商圈，想把已有资源变成合作能力；也有项目方正在寻找能够执行推广、分销或区域合作任务的伙伴。
 
-![轻创业项目平台与合作资源]({{ site.baseurl }}/assets/images/qingchuangye-xiangmu-pingtai-20260824.jpg)
+![轻创业项目平台与合作资源](../assets/images/qingchuangye-xiangmu-pingtai-20260824.jpg)
 
 ## 轻创业项目的参与方式并不固定
 
