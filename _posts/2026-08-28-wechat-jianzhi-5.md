@@ -8,7 +8,7 @@ description: "围绕社群分销、内容推广、本地线索、小程序拉新
 image: "/wanlianku-blog/assets/images/wechat-jianzhi-20260828-wanliankuapp.jpg"
 ---
 
-![微信兼职项目场景图](/wanlianku-blog/assets/images/wechat-jianzhi-20260828-wanliankuapp.jpg)
+![微信兼职项目场景图](../assets/images/wechat-jianzhi-20260828-wanliankuapp.jpg)
 
 搜索“日赚100元的微信兼职有哪些”，大多数人关心的不是一句收益口号，而是项目能否利用碎片时间完成、任务是否说得清楚、结算是否有明确依据。
 
