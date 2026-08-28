@@ -6,7 +6,7 @@ tags: [怎么寻找礼品公司, 个人团长合作, 礼品渠道, 团长资源,
 description: "从节日礼盒、社区消费、企业福利和定制礼品等场景，梳理礼品公司与个人团长建立长期合作的对接方式。"
 ---
 
-![礼品公司与个人团长长期合作]({{ site.baseurl }}/assets/images/lipin-gongsi-tuanzhang-hezuo-20260825.jpg)
+![礼品公司与个人团长长期合作](../assets/images/lipin-gongsi-tuanzhang-hezuo-20260825.jpg)
 
 礼品公司通常拥有产品、供应链和发货能力，却缺少稳定的终端渠道；个人团长手里有社群和用户，却不一定能找到持续供货的礼品项目。
 
