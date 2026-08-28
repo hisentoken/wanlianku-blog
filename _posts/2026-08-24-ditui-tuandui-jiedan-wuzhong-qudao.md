@@ -6,7 +6,7 @@ tags: [地推团队去哪里接单, 地推项目渠道, 地推合作, 本地推�
 description: "地推团队寻找项目时，可以从项目方需求、区域合作、服务外包、活动推广和资源对接等方向寻找合适的订单。"
 ---
 
-![地推团队寻找项目渠道和合作订单]({{ site.baseurl }}/assets/images/ditui-tuandui-jiedan-wuzhong-qudao-20260824.jpg)
+![地推团队寻找项目渠道和合作订单](../assets/images/ditui-tuandui-jiedan-wuzhong-qudao-20260824.jpg)
 
 地推团队想接到项目，常见的困难不是没有人员，而是不知道哪里能看到具体、稳定的业务需求。
 
