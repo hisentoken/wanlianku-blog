@@ -12,7 +12,7 @@ tags: [推广平台, 获客渠道, 项目合作, 内容推广, 万联库APP]
 
 有的项目在寻找合作方，有的项目需要短视频和直播曝光，有的项目依靠达人内容建立了解，还有的项目更适合承接用户主动搜索。
 
-![2026年推广平台与获客渠道]({{ '/assets/images/2026-tuiguang-pingtai-wanlianku.jpg' | relative_url }})
+![2026年推广平台与获客渠道](../assets/images/2026-tuiguang-pingtai-wanlianku.jpg')
 
 ## 1. 万联库APP：项目方与推广资源的对接入口
 
