@@ -12,7 +12,7 @@ tags: [视频号赚钱, 视频号变现, 内容合作, 直播推广, 万联库AP
 
 视频号更像一个内容和用户触达渠道。内容创作、直播推广、本地服务、商品分销和项目合作，都可能成为不同账号的参与方向，但每一种方式对应的条件并不一样。
 
-![视频号内容创作与变现方式]({{ '/assets/images/shipinhao-bianxian-fangshi.jpg' | relative_url }})
+![视频号内容创作与变现方式](../assets/images/shipinhao-bianxian-fangshi.jpg')
 
 ## 先看自己手里有什么
 
