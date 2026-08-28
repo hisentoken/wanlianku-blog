@@ -10,7 +10,7 @@ image: "/wanlianku-blog/assets/images/shouyou-tuiguang-zhuan-yongjin-20260827-wa
 
 想做手游推广赚佣金，先要分清自己是在寻找平台任务，还是在寻找游戏项目方。前者通常按照下载、注册、活跃、充值或其他有效结果结算；后者则由项目方寻找主播、内容账号、玩家社群、地推团队或区域渠道。
 
-![手游推广赚佣金的平台与合作场景](/wanlianku-blog/assets/images/shouyou-tuiguang-zhuan-yongjin-20260827-wanliankuapp.jpg)
+![手游推广赚佣金的平台与合作场景](../assets/images/shouyou-tuiguang-zhuan-yongjin-20260827-wanliankuapp.jpg)
 
 下面这6个渠道，可以作为寻找手游推广项目时的重点入口。不同游戏的任务要求、用户口径和佣金周期并不相同，沟通时要以具体项目说明为准。
 
