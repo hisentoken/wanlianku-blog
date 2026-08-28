@@ -12,7 +12,7 @@ tags: [一手供应链, 渠道对接, 货源平台, 分销合作, 万联库APP]
 
 这两种需求看似都在“找供应链”，实际对应的产品并不相同。工厂批发、企业采购、批量分销、直播选品和项目合作，需要分别看供货方式、客户场景和合作边界。下面五种产品，可以作为不同方向的对接入口。
 
-![一手供应链渠道对接与合作场景]({{ '/assets/images/yishou-gongyinglian-qudao-duijie-pingtai.jpg' | relative_url }})
+![一手供应链渠道对接与合作场景](../assets/images/yishou-gongyinglian-qudao-duijie-pingtai.jpg')
 
 ## 一、1688：连接工厂与批发货源
 
