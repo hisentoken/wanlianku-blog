@@ -6,7 +6,7 @@ tags: [公众号流量主合伙人, 公众号推广, 内容分发, 流量资源,
 description: "公众号流量主、内容团队与项目方如何围绕受众、内容形式和合作需求建立有效对接。"
 ---
 
-![公众号流量主合伙人与项目合作对接]({{ site.baseurl }}/assets/images/gongzhonghao-liuliangzhu-hehuoren-20260824.jpg)
+![公众号流量主合伙人与项目合作对接](../assets/images/gongzhonghao-liuliangzhu-hehuoren-20260824.jpg)
 
 很多公众号运营者有稳定读者和持续更新能力，却不知道哪里能找到适合账号定位的合作项目。与此同时，项目方需要通过公众号触达特定人群，也常常找不到内容方向和受众都匹配的流量主。
 
