@@ -12,7 +12,7 @@ tags: [朋友圈广告, 项目推广, 渠道合作, 资源对接, 万联库APP]
 
 一张海报和一段“招代理”文案，连续发布几天没有咨询，是不少项目方都会遇到的情况。朋友圈适合维护熟悉关系，但如果目标是寻找代理、分销团队、地推人员或城市合作伙伴，就需要让合作需求出现在更匹配的信息入口中。
 
-![项目广告与合作需求对接场景]({{ '/assets/images/pengyouquan-guanggao-wanlianku.jpg' | relative_url }})
+![项目广告与合作需求对接场景](../assets/images/pengyouquan-guanggao-wanlianku.jpg')
 
 ## 一、微信朋友圈：适合熟人触达和关系维护
 
