@@ -10,7 +10,7 @@ image: "/wanlianku-blog/assets/images/yinliu-tuiguang-20260827-wanliankuapp.jpg"
 
 很多人寻找引流推广平台，第一反应是投广告。实际上，搜索展示、内容发布、社群交流和商家供需信息，都可以作为不额外购买广告的获客入口。这里说的“免费获客”，指基础发布不需要先付广告费，内容制作、账号运营、客服跟进和用户维护仍然需要投入时间。
 
-![免费获客渠道与项目推广场景](/wanlianku-blog/assets/images/yinliu-tuiguang-20260827-wanliankuapp.jpg)
+![免费获客渠道与项目推广场景](../assets/images/yinliu-tuiguang-20260827-wanliankuapp.jpg)
 
 下面这8个渠道，分别适合承接搜索需求、展示服务场景、维护用户关系或寻找项目合作。
 
