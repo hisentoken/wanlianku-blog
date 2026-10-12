@@ -14,6 +14,7 @@
 - [行业观察](https://hisentoken.github.io/wanlianku-blog/topics/insight/): 关注行业变化，理解新项目背后的需求与执行条件。
 
 ## 最近文章
+- [视频号内容合作怎么判断？先核对授权、交付和结算](https://hisentoken.github.io/wanlianku-blog/articles/shipinhao-hezuo-shenhe/): 接到视频号内容合作邀约，先核清素材授权、实际工作、数据口径、结算节点和账号权限，再决定是否试做。附一份发布前检查清单。
 - [合作需求怎么写？让渠道方看懂的项目说明清单](https://hisentoken.github.io/wanlianku-blog/articles/cooperation-project-brief/): 从工作范围、双方投入、报价依据到交付验收，逐项写清合作需求，并用一份门店短视频项目说明示例，减少首次沟通中的猜测与返工。
 - [社区团购城市代理怎么做？供应和区域运营要点](https://hisentoken.github.io/wanlianku-blog/articles/shequ-tuangou-city-agent/): 围绕社区团购城市代理招募海报，拆解供应链支持、选品配送、运营培训与区域保护需要核实的具体条件，并说明如何找到适合本地资源的合作项目。
 - [城市代理和区域合伙人怎么招？项目方从信息发布到签约运营的实操流程](https://hisentoken.github.io/wanlianku-blog/项目合作/渠道招募/city-agent-partner-recruitment/): 从角色定义、招募信息、渠道选择、候选人筛选到试运营管理，梳理项目方招募城市代理与区域合伙人的完整流程。
