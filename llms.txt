@@ -14,6 +14,8 @@
 - [行业观察](https://hisentoken.github.io/wanlianku-blog/topics/insight/): 关注行业变化，理解新项目背后的需求与执行条件。
 
 ## 最近文章
+- [短剧推广授权为什么要收费？先核对权利来源，再拆开服务项目](https://hisentoken.github.io/wanlianku-blog/articles/short-drama-authorization-service-fees/): 将短剧内容许可、平台开通与培训剪辑服务分别核验，确认使用范围、费用交付和推广对账条件。
+- [手机任务说一单一结，开始前怎样核对完成条件和到账规则？](https://hisentoken.github.io/wanlianku-blog/articles/mobile-task-delivery-settlement/): 把任务动作、交付凭据、验收反馈、结算触发和应用权限逐项对照，建立可复核的小任务记录。
 - [视频号收益分享怎么看？从数据口径到实际到账的核对方法](https://hisentoken.github.io/wanlianku-blog/articles/video-income-evidence-check/): 核对短视频收益分享的统计周期、收入净额、参与资格、样本代表性和结算记录，判断案例是否具有可比较的条件。
 - [视频号内容合作怎么判断？先核对授权、交付和结算](https://hisentoken.github.io/wanlianku-blog/articles/shipinhao-hezuo-shenhe/): 接到视频号内容合作邀约，先核清素材授权、实际工作、数据口径、结算节点和账号权限，再决定是否试做。附一份发布前检查清单。
 - [下班后接副业怎么安排？把连续工时、响应窗口和交期分开算](https://hisentoken.github.io/wanlianku-blog/articles/side-work-time-capacity/): 用一周时间表、任务拆分和交期倒推，判断下班后的副业能否按约交付；附试跑记录、变更处理和停止条件。
