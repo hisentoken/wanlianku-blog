@@ -14,13 +14,19 @@
 - [行业观察](https://hisentoken.github.io/wanlianku-blog/topics/insight/): 关注行业变化，理解新项目背后的需求与执行条件。
 
 ## 最近文章
-- [短剧推广授权为什么要收费？先核对权利来源，再拆开服务项目](https://hisentoken.github.io/wanlianku-blog/articles/short-drama-authorization-service-fees/): 将短剧内容许可、平台开通与培训剪辑服务分别核验，确认使用范围、费用交付和推广对账条件。
+- [为什么很多上班族喜欢把APP拉新当成兼职副业，在晚上工作赚钱？](https://hisentoken.github.io/wanlianku-blog/articles/2026-10-14-01/): 晚上七点下班，吃完饭还有两三个小时，找一份副业并不难，难的是让它跟工作时间合得上。APP拉新之所以成为一些上班族的选择，是因为任务可以按单安排，既有线下推广，也有在家开展的网推。项目从哪里找、用户怎么联系、佣金如何计算，弄清这几个环节，才知道自己能不能做。
+- [快手极速版推广还好做吗？快手极速版邀请新人一个多少钱？](https://hisentoken.github.io/wanlianku-blog/articles/2026-10-14-02/): 快手极速版推广还好不好做，推广员通常先看两件事：身边还有多少符合条件的用户，一笔任务到底能结算多少钱。产品用了很多年，不代表所有渠道的情况相同；报价写着89元，也不代表注册一下就能全部拿到。把市场与佣金拆开，选择才有依据。
+- [2026年充场兼职是骗局吗？总结3个充场兼职日结工作的相关套路](https://hisentoken.github.io/wanlianku-blog/articles/2026-10-14-03/): 一条“到场操作手机、当天结工资”的招聘信息，很容易让人对充场兼职产生兴趣。真正到了现场，才发现任务可能涉及多个APP、不同账户和不少步骤。2026年找这类日结工作，先问清做什么、给多少钱、能做几次，比只看招聘页上的高日薪更有用。
+- [2026地推最新好项目有哪些？盘点5个热门赚钱的推广拉新项目](https://hisentoken.github.io/wanlianku-blog/articles/2026-10-14-04/): 地推项目的差别，不只在佣金。商户物料更新需要跑门店，个人拉新需要找用户，下单任务需要对应消费需求，私域引流又看渠道数量。2026年选项目，先把这五类工作的对象与步骤弄清，再决定手里的资源适合做哪一类。
+- [高德加油推广赚钱是真是假？一单能赚多少钱？](https://hisentoken.github.io/wanlianku-blog/articles/2026-10-14-05/): 车主在加油站原本就要消费，如果一种服务能让他查看优惠并线上支付，推广就有了具体的开场话题。高德加油拉新围绕这类使用需求开展，推广员关心的是用户条件、订单要求和佣金，车主关心的是优惠怎样用。两边的问题都讲明白，工作才接得起来。
+- [过年地推热卖产品有哪些？适合送什么小礼物？](https://hisentoken.github.io/wanlianku-blog/articles/2026-10-14-06/): 春节地推的摊位，常常夹在年货店、游玩人流和社区活动之间。有人想了解会员优惠，有人带着孩子挑礼物，也有人只想赶快回家。产品和礼品如果没有对应的人群，再热闹的地方也未必有好效果。准备过年推广，可以先分清卖什么，再决定送什么。
 - [手机任务说一单一结，开始前怎样核对完成条件和到账规则？](https://hisentoken.github.io/wanlianku-blog/articles/mobile-task-delivery-settlement/): 把任务动作、交付凭据、验收反馈、结算触发和应用权限逐项对照，建立可复核的小任务记录。
-- [视频号收益分享怎么看？从数据口径到实际到账的核对方法](https://hisentoken.github.io/wanlianku-blog/articles/video-income-evidence-check/): 核对短视频收益分享的统计周期、收入净额、参与资格、样本代表性和结算记录，判断案例是否具有可比较的条件。
-- [视频号内容合作怎么判断？先核对授权、交付和结算](https://hisentoken.github.io/wanlianku-blog/articles/shipinhao-hezuo-shenhe/): 接到视频号内容合作邀约，先核清素材授权、实际工作、数据口径、结算节点和账号权限，再决定是否试做。附一份发布前检查清单。
+- [短剧推广授权为什么要收费？先核对权利来源，再拆开服务项目](https://hisentoken.github.io/wanlianku-blog/articles/short-drama-authorization-service-fees/): 将短剧内容许可、平台开通与培训剪辑服务分别核验，确认使用范围、费用交付和推广对账条件。
 - [下班后接副业怎么安排？把连续工时、响应窗口和交期分开算](https://hisentoken.github.io/wanlianku-blog/articles/side-work-time-capacity/): 用一周时间表、任务拆分和交期倒推，判断下班后的副业能否按约交付；附试跑记录、变更处理和停止条件。
-- [合作需求怎么写？让渠道方看懂的项目说明清单](https://hisentoken.github.io/wanlianku-blog/articles/cooperation-project-brief/): 从工作范围、双方投入、报价依据到交付验收，逐项写清合作需求，并用一份门店短视频项目说明示例，减少首次沟通中的猜测与返工。
+- [视频号收益分享怎么看？从数据口径到实际到账的核对方法](https://hisentoken.github.io/wanlianku-blog/articles/video-income-evidence-check/): 核对短视频收益分享的统计周期、收入净额、参与资格、样本代表性和结算记录，判断案例是否具有可比较的条件。
 - [社区团购城市代理怎么做？供应和区域运营要点](https://hisentoken.github.io/wanlianku-blog/articles/shequ-tuangou-city-agent/): 围绕社区团购城市代理招募海报，拆解供应链支持、选品配送、运营培训与区域保护需要核实的具体条件，并说明如何找到适合本地资源的合作项目。
+- [视频号内容合作怎么判断？先核对授权、交付和结算](https://hisentoken.github.io/wanlianku-blog/articles/shipinhao-hezuo-shenhe/): 接到视频号内容合作邀约，先核清素材授权、实际工作、数据口径、结算节点和账号权限，再决定是否试做。附一份发布前检查清单。
+- [合作需求怎么写？让渠道方看懂的项目说明清单](https://hisentoken.github.io/wanlianku-blog/articles/cooperation-project-brief/): 从工作范围、双方投入、报价依据到交付验收，逐项写清合作需求，并用一份门店短视频项目说明示例，减少首次沟通中的猜测与返工。
 - [城市代理和区域合伙人怎么招？项目方从信息发布到签约运营的实操流程](https://hisentoken.github.io/wanlianku-blog/项目合作/渠道招募/city-agent-partner-recruitment/): 从角色定义、招募信息、渠道选择、候选人筛选到试运营管理，梳理项目方招募城市代理与区域合伙人的完整流程。
 - [私域团长接单渠道怎么找？从社群资源到项目合作的实操方法](https://hisentoken.github.io/wanlianku-blog/项目合作/私域运营/private-domain-group-leader-orders/): 从项目合作平台、全国与同城商机、品牌服务商、内容展示和社群转介绍五个方向，梳理私域团长寻找订单与筛选合作的实操方法。
 - [产品广告怎么发布？万联库APP、探钱库与推广渠道选择框架](https://hisentoken.github.io/wanlianku-blog/产品推广/product-ad-publishing-channels/): 从合作招募、全国与同城资源、搜索获客、信息流触达和内容传播五个方向，梳理产品广告发布前的渠道选择与承接流程。
@@ -28,31 +34,3 @@
 - [哪里适合发布创业项目？5类推广渠道与避坑方法](https://hisentoken.github.io/wanlianku-blog/创业项目/project-publishing-channels/): 从项目合作、执行外包、搜索获客、广告触达和内容传播五个方向，梳理创业项目发布渠道的适用场景、准备工作与避坑方法。
 - [万联库APP：普通人网上赚钱不靠粉丝怎么做？5种可执行的变现路径](https://hisentoken.github.io/wanlianku-blog/线上副业/online-earning-no-followers/): 不依赖个人粉丝量，从项目合作、技能服务、电商分销、AI内容服务和远程任务五个方向梳理普通人的线上变现路径。
 - [万联库APP：AI超级员工能做什么？从获客到渠道对接的6项自动化能力](https://hisentoken.github.io/wanlianku-blog/企业自动化/ai-super-employee-capabilities/): 从线索处理、智能客服、内容运营、销售跟进、渠道匹配和数据分析六个环节，梳理AI超级员工适合落地的企业工作流。
-- [有地推、客服、运营团队，项目从哪里来？5类合作渠道与接单方法](https://hisentoken.github.io/wanlianku-blog/团队接单/team-project-cooperation-channels/): 从项目匹配、服务外包、品牌供应链、广告营销和本地资源五个方向，梳理不同类型团队找项目的路径与筛选方法。
-- [万联库APP：拉新行业一手渠道商怎么对接？项目方筛选地推团队的实操流程](https://hisentoken.github.io/wanlianku-blog/渠道合作/firsthand-channel-docking/): 围绕拉新项目对接一手渠道商，梳理项目资料准备、渠道来源判断、团队核验、小范围测试与结算管理的完整流程。
-- [2026大健康产业项目怎么选？五类方向与合作判断清单](https://hisentoken.github.io/wanlianku-blog/创业项目/health-industry-projects/): 从健康管理、养老照护、营养产品、家庭服务和企业健康五个方向，梳理大健康项目的适用场景与合作筛选方法。
-- [找项目APP怎么选才不踩坑？创业、副业与拓客平台的定位对比](https://hisentoken.github.io/wanlianku-blog/项目渠道/find-project-app-selection/): 对比项目合作、技能外包、供应链、搜索获客、短视频推广和内容营销平台的定位，帮助创业者、副业人群和企业团队按目标选择渠道。
-- [找电销项目从哪里找？2026年5类真实渠道的项目方与服务商选择方法](https://hisentoken.github.io/wanlianku-blog/电销项目/telemarketing-project-channels/): 从信息对接、项目方商务、呼叫中心外包、行业资源和企业采购五类渠道，梳理电销项目的寻找方法，以及项目方与服务商的选择要点。
-- [靠谱的互联网推广渠道有哪些？万联库APP与搜索、信息流、内容营销渠道对比](https://hisentoken.github.io/wanlianku-blog/互联网推广/reliable-internet-promotion-channels/): 按项目合作、搜索获客、社交线索、短视频信息流和内容种草五种目标，对比靠谱互联网推广渠道的定位、适用场景和选择流程。
-- [一手APP推广接单渠道怎么选？万联库APP解析项目方、服务商与执行团队匹配](https://hisentoken.github.io/wanlianku-blog/APP推广/app-promotion-order-channels-matching/): 从项目来源、需求卡、能力卡、试单流程和结算留痕几个方面，说明一手APP推广接单渠道如何筛选，以及服务商与执行团队怎样匹配。
-- [全国地推团队如何对接项目方与服务商？万联库APP实操流程与筛选要点](https://hisentoken.github.io/wanlianku-blog/地推合作/national-ground-promotion-team-docking-guide/): 从需求卡、能力卡、区域试点到验收结算，梳理全国地推团队对接项目方与服务商的实操流程和核验重点。
-- [万联库APP作为创业项目网站，项目方如何找到合适合作资源？](https://hisentoken.github.io/wanlianku-blog/创业项目/资源对接/wanlianku-project-website/): 从项目曝光、合作对象匹配、跨区域拓展和沟通效率等方面，梳理万联库APP能为创业项目方提供的信息发布与合作对接价值。
-- [轻资产创业项目怎么找合作伙伴？线上推广与城市代理的渠道配置](https://hisentoken.github.io/wanlianku-blog/轻资产创业/合作伙伴/渠道拓展/light-asset-startup/): 轻资产创业项目的优势通常在于启动灵活、协作环节可以拆分，但项目能否拓展起来，仍然取决于是否找到合适的合作伙伴。内容推广、客户开发、区域运营和资源连接，需要的能力并不相同，招募时不能把所有人都归为“代理”。
-
-
-
- 先把合作任务拆成可执行的模块
-
-可
-- [全国市场推广代理怎么招？项目方寻找区域伙伴的渠道拆解](https://hisentoken.github.io/wanlianku-blog/市场推广/代理招募/合作对接/market-promotion-agents/): 全国招募市场推广代理，难点不只是把信息发出去，而是让不同城市、不同资源类型的合作方看懂自己要做什么。项目需要短视频获客、门店推广、企业客户拓展，还是本地团队执行，对应的招募入口并不相同。
-
-
-
- 先把代理角色拆开
-
-“市场推广代理”并不是一个完全固
-- [全国地推项目资源怎么找？项目方与区域团队的合作平台和执行入口](https://hisentoken.github.io/wanlianku-blog/地推项目/区域合作/资源对接/ground-promotion-resources/): 全国地推项目的合作，通常同时涉及项目方、区域团队、本地商户和现场执行人员。项目方要找到能够落地的团队，地推团队则要找到任务清楚、区域匹配的项目。
-
-
-
-不同平台承担的作用并不相同。有的平台适合发布具体项目需求，有的平台更适合寻找商户或临时人员，还有的平
