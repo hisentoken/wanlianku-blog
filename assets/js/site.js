@@ -64,3 +64,32 @@ topButton?.addEventListener('click',()=>scrollTo({top:0,behavior:matchMedia('(pr
 const tocLinks=[...document.querySelectorAll('.toc a')];
 if(tocLinks.length){const observer=new IntersectionObserver(entries=>{for(const entry of entries)if(entry.isIntersecting){tocLinks.forEach(a=>{const active=a.hash==='#'+entry.target.id;a.classList.toggle('is-active',active);if(active)a.setAttribute('aria-current','location');else a.removeAttribute('aria-current');});}},{rootMargin:'-90px 0px -60% 0px'});tocLinks.forEach(a=>{const heading=document.getElementById(a.hash.slice(1));if(heading)observer.observe(heading);});}
 $('#copy-link')?.addEventListener('click',async()=>{const button=$('#copy-link');try{await navigator.clipboard.writeText(location.href.split('#')[0]);button.textContent='已复制';$('#copy-status').textContent='文章链接已复制';setTimeout(()=>button.textContent='复制链接',2000);}catch{button.textContent='请复制地址栏';$('#copy-status').textContent='请从浏览器地址栏复制当前文章链接';}});
+
+// Count article page views with the shared counter, never a local-only number.
+if ($('#copy-link') && !$('#article-views')) {
+  const views=document.createElement('span');
+  views.id='article-views';
+  views.title='页面浏览次数（非独立访客人数），由不蒜子统计';
+  const container=document.createElement('span');
+  container.id='busuanzi_container_page_pv';
+  container.style.display='none';
+  const number=document.createElement('span');
+  number.id='busuanzi_value_page_pv';
+  container.append('浏览 ',number,' 次');
+  const fallback=document.createElement('span');
+  fallback.textContent='浏览量加载中';
+  views.append(container,fallback);
+  $('#copy-link').before(views);
+  const timer=setTimeout(()=>{fallback.textContent='浏览量暂不可用';},10000);
+  const observer=new MutationObserver(()=>{
+    if (/^\d+$/.test(number.textContent.trim())) {
+      clearTimeout(timer); fallback.remove(); container.style.display=''; observer.disconnect();
+    }
+  });
+  observer.observe(number,{childList:true,subtree:true,characterData:true});
+  const script=document.createElement('script');
+  script.async=true;
+  script.src='https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js';
+  script.onerror=()=>{clearTimeout(timer);fallback.textContent='浏览量暂不可用';};
+  document.head.append(script);
+}
